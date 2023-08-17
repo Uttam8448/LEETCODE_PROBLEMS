@@ -9,34 +9,9 @@ class Solution{
     // arr[]: Input Array
     // N : Size of the Array arr[]
     // Function to count inversions in the array.
-    // long long int merge(long long arr[],long long temp[],long long s,long long mid, long long e){
-    //     int i=s,j=mid+1,k=s;
-    //     long long c=0;
-    //     while(i<=mid && j<=e){
-    //         if(arr[i]<=arr[j]){
-    //             temp[k++]=arr[i++];
-    //         }
-    //         else{
-    //             temp[k++]=arr[j++];
-    //             c+=mid-i+1;
-    //         }
-    //     }
-    //     return c;
-    // }
-    // long long int mergeSort(long long arr[],long long temp[],long long s, long long e){
-    //     if(s>=e){
-    //         return 0;
-    //     }
-    //     long long mid=s+(e-s)/2;
-    //     long long int c=0;
-    //     c+=mergeSort(arr,temp,s,mid);
-    //     c+=mergeSort(arr,temp,mid+1,e);
-    //     c+=merge(arr,temp,s,mid,e);
-    //     return c;
-    // }
-    long merge(long long arr[],long long temp[],int s,int mid,int e){
+    long long int merge(long long arr[],long long temp[],long long s,long long mid, long long e){
     int i=s,j=mid+1,k=s;
-    long c=0;
+    long long int c=0;
     while(i<=mid && j<=e){
         if(arr[i]<=arr[j]){
             temp[k++]=arr[i++];
@@ -57,19 +32,19 @@ class Solution{
         s++;
     }
     return c;
-}
-
-long mergeSort(long long arr[],long long temp[],int s,int e){
-    if(s>=e){
-        return 0;
     }
-    long c=0;
-    int mid=s+(e-s)/2;
-    c += mergeSort(arr,temp,s,mid);
-    c += mergeSort(arr,temp,mid+1,e);
-    c += merge(arr,temp,s,mid,e);
-    return c;
-}
+    long long int mergeSort(long long arr[],long long temp[],long long s, long long e){
+        if(s>=e){
+            return 0;
+        }
+        long long mid=s+(e-s)/2;
+        long long int c=0;
+        c+=mergeSort(arr,temp,s,mid);
+        c+=mergeSort(arr,temp,mid+1,e);
+        c+=merge(arr,temp,s,mid,e);
+        return c;
+    }
+    
     
     long long int inversionCount(long long arr[], long long N)
     {   
