@@ -10,38 +10,36 @@
  */
 class Solution {
 public:
-    ListNode* helper(ListNode* head,ListNode* tail,ListNode* prev,int count){
-            if(tail==NULL){ return 0;}
-            helper(head,tail->next,tail,count);
-            if(count!=0){
-                tail->next=head;
-                prev->next=NULL;
-                head=tail;
-                count--;
-            }
-            return head;
-        
+    int getLength(ListNode* head){
+        int len=0;
+        while(head!=NULL){
+            len++;
+            head=head->next;
+        }
+        return len;
     }
     ListNode* rotateRight(ListNode* head, int k) {
-        int count=1;
+        if(!head) return 0;
         ListNode* tail=head;
         if( k==0 || head==NULL){
             return head;
         }
-        while(tail->next!=NULL){
-            count++;
-            tail=tail->next;
-        }
-        int actualRotateK = k % count;
-        int newLastNodePos = count - actualRotateK - 1;
+        int length=getLength(head);
+        int actualRotateK = k % length;
+        if(!actualRotateK) return head;
+        int newLastNodePos = length - actualRotateK - 1;
         ListNode*newhead = nullptr;
         ListNode* newLastNode = head;
         for(int i=0;i<newLastNodePos;i++){
             newLastNode=newLastNode->next;
         }
-        tail->next=head;
-        head=newLastNode->next;
-        newLastNode->next=NULL;
-        return head;
+        ListNode*newHead = newLastNode->next;
+        newLastNode->next=0;
+        ListNode*it = newHead;
+        while(it->next){
+            it=it->next;
+        }
+        it->next=head;
+        return newHead;
     }
 };
