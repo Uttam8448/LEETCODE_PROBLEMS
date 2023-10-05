@@ -25,17 +25,14 @@ public:
     ListNode* rotateRight(ListNode* head, int k) {
         int count=1;
         ListNode* tail=head;
-        if(head==NULL){
-            return NULL;
+        if( k==0 || head==NULL){
+            return head;
         }
         while(tail->next!=NULL){
             count++;
             tail=tail->next;
         }
         int actualRotateK = k % count;
-        if(actualRotateK==0 || k==0){
-            return head;
-        }
         int newLastNodePos = count - actualRotateK - 1;
         ListNode*newhead = nullptr;
         ListNode* newLastNode = head;
