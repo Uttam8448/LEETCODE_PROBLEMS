@@ -33,9 +33,7 @@ public:
         vector<int> anseleindnext=nextSmallerIndex(heights);
         int maxArea=0;
         for (int i=0;i<heights.size();i++){
-            int length=heights[i];
-            int width=(anseleindnext[i]-anseleindpre[i]-1);
-            int area = length*width;
+            int area = heights[i]*(anseleindnext[i]-anseleindpre[i]-1);
             maxArea=max(maxArea,area);
         }
         return maxArea;
