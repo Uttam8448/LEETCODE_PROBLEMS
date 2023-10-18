@@ -35,8 +35,6 @@ class Solution
             if(M[mightbecelebrity][i]){
                 return -1;
             }
-        }
-        for(int i=0;i<n;i++){
             if(M[i][mightbecelebrity]==0 && i!=mightbecelebrity){
                 return -1;
             }
