@@ -32,11 +32,11 @@ int main() {
 vector<long long> printFirstNegativeInteger(long long int A[],
                                              long long int N, long long int K) {
     vector<long long> ans;
-    deque<int> q;
+    queue<int> q;
 	//process first window of size k
 	for(int i=0;i<K;i++){
 		if(A[i]<0){
-			q.push_back(i);
+			q.push(i);
 		}
 	}
 	//remaining window ko process kro
@@ -48,10 +48,10 @@ vector<long long> printFirstNegativeInteger(long long int A[],
 			ans.push_back(0);
 		}
 		while ((!q.empty()) && (i-q.front()>=K)){
-			q.pop_front();
+			q.pop();
 		}
 		if(A[i]<0){
-			q.push_back(i);
+			q.push(i);
 		}
 	}
 	if(!q.empty()){
