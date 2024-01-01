@@ -18,6 +18,8 @@ public:
             sum+=root->val;
             if(sum == targetSum)
                 return true;
+            else
+                return false;
         }
         bool leftval=solve(root->left,targetSum,sum+root->val);
         bool rightval=solve(root->right,targetSum,sum+root->val);
