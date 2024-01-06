@@ -11,11 +11,14 @@
  */
 class Solution {
 public:
+    bool b=1;
     int height(TreeNode* root){
-        if(root==NULL)
-            return 0;
+        if(root==NULL) return 0;
         int lheight=height(root->left);
         int rheight=height(root->right);
+        bool currans=(abs(lheight-rheight)<=1)?1:0;
+        if(b && !currans)
+            b=0;
         int ans=max(lheight,rheight);
         return ans+1;
     }
@@ -23,13 +26,8 @@ public:
         //base case
         if(root==NULL)
             return 1;
-        bool currans=(abs(height(root->left)-height(root->right))<=1)?1:0;
-        bool lbalanced=isBalanced(root->left);
-        bool rbalanced=isBalanced(root->right);
-        if(lbalanced && rbalanced && currans)
-            return 1;
-        else
-            return 0;
+        height(root);
+        return b;
     }
     
 };
