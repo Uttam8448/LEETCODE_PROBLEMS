@@ -28,6 +28,7 @@ LEETCODE PROBLEMS
 # Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0733-flood-fill) |
@@ -35,6 +36,7 @@ LEETCODE PROBLEMS
 # Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0733-flood-fill) |
@@ -43,3 +45,7 @@ LEETCODE PROBLEMS
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0542-01-matrix) |
+# Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0073-set-matrix-zeroes) |
