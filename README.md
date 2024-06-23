@@ -29,6 +29,7 @@ LEETCODE PROBLEMS
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0118-pascals-triangle) |
 | [0200-number-of-islands](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0733-flood-fill) |
@@ -44,6 +45,7 @@ LEETCODE PROBLEMS
 # Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0118-pascals-triangle) |
 | [0542-01-matrix](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0542-01-matrix) |
 # Hash Table
 |  |
