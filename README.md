@@ -9,6 +9,7 @@ LEETCODE PROBLEMS
 | [0200-number-of-islands](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0733-flood-fill) |
+| [1073-number-of-enclaves](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/1073-number-of-enclaves) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -18,12 +19,14 @@ LEETCODE PROBLEMS
 | [0547-number-of-provinces](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/1073-number-of-enclaves) |
 # Union Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0547-number-of-provinces) |
+| [1073-number-of-enclaves](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/1073-number-of-enclaves) |
 # Graph
 |  |
 | ------- |
@@ -38,6 +41,7 @@ LEETCODE PROBLEMS
 | [0542-01-matrix](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/1073-number-of-enclaves) |
 # Matrix
 |  |
 | ------- |
@@ -47,6 +51,7 @@ LEETCODE PROBLEMS
 | [0542-01-matrix](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/1073-number-of-enclaves) |
 # Dynamic Programming
 |  |
 | ------- |
