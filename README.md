@@ -61,3 +61,18 @@ LEETCODE PROBLEMS
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0073-set-matrix-zeroes) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
+## Greedy
+|  |
+| ------- |
+| [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
+<!---LeetCode Topics End-->
