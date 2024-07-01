@@ -75,4 +75,16 @@ LEETCODE PROBLEMS
 |  |
 | ------- |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0127-word-ladder) |
+## String
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0127-word-ladder) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
