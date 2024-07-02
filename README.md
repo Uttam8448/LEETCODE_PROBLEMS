@@ -66,6 +66,7 @@ LEETCODE PROBLEMS
 ## Array
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Dynamic Programming
 |  |
@@ -79,6 +80,7 @@ LEETCODE PROBLEMS
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0127-word-ladder) |
+| [0349-intersection-of-two-arrays](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -87,4 +89,16 @@ LEETCODE PROBLEMS
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0127-word-ladder) |
+## Two Pointers
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
