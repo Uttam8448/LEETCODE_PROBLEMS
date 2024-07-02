@@ -66,6 +66,7 @@ LEETCODE PROBLEMS
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0485-max-consecutive-ones) |
@@ -113,5 +114,6 @@ LEETCODE PROBLEMS
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
