@@ -13,7 +13,6 @@ public:
                 break;
             }
         }
-        cout<<index;
         if(index!=-1){
             int swapIndex=index;
             for(int i=nums.size()-1;i>index;i--){
@@ -28,15 +27,5 @@ public:
         else{
             reverse(nums.begin(),nums.end());
         }
-
-        // sort(nums.begin()+index,nums.end(),greater<int>());
-        // int swapIndex=0;
-        // int temp=nums[index];
-        // for(int i=nums.size()-1;i>index;i--){
-        //     if(nums[i]>temp){
-        //         swapIndex=i+1;
-        //     }
-        // }
-        // swap(nums[index],nums[swapIndex]);
     }
 };
