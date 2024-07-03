@@ -68,6 +68,7 @@ LEETCODE PROBLEMS
 | ------- |
 | [0031-next-permutation](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0031-next-permutation) |
 | [0136-single-number](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0485-max-consecutive-ones) |
@@ -98,6 +99,7 @@ LEETCODE PROBLEMS
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0031-next-permutation) |
+| [0189-rotate-array](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
@@ -112,6 +114,7 @@ LEETCODE PROBLEMS
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
