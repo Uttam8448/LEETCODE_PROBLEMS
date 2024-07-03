@@ -66,6 +66,7 @@ LEETCODE PROBLEMS
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0031-next-permutation) |
 | [0136-single-number](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
@@ -96,6 +97,7 @@ LEETCODE PROBLEMS
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0031-next-permutation) |
 | [0349-intersection-of-two-arrays](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
