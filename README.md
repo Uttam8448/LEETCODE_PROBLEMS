@@ -68,6 +68,7 @@ LEETCODE PROBLEMS
 | ------- |
 | [0031-next-permutation](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0031-next-permutation) |
 | [0136-single-number](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
@@ -85,6 +86,7 @@ LEETCODE PROBLEMS
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0127-word-ladder) |
+| [0169-majority-element](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
 ## String
@@ -111,6 +113,7 @@ LEETCODE PROBLEMS
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
 ## Math
@@ -139,4 +142,12 @@ LEETCODE PROBLEMS
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0112-path-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
