@@ -94,6 +94,7 @@ LEETCODE PROBLEMS
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0112-path-sum) |
 | [0127-word-ladder](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0127-word-ladder) |
 ## Two Pointers
 |  |
@@ -126,4 +127,16 @@ LEETCODE PROBLEMS
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0112-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
