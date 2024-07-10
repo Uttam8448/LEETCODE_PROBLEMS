@@ -130,6 +130,7 @@ LEETCODE PROBLEMS
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0237-delete-node-in-a-linked-list) |
 ## Tree
 |  |
 | ------- |
