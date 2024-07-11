@@ -67,6 +67,7 @@ LEETCODE PROBLEMS
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0031-next-permutation) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0136-single-number](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0189-rotate-array) |
@@ -85,6 +86,7 @@ LEETCODE PROBLEMS
 ## Hash Table
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
@@ -134,6 +136,7 @@ LEETCODE PROBLEMS
 ## Tree
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0112-path-sum](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
@@ -142,10 +145,12 @@ LEETCODE PROBLEMS
 ## Binary Tree
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0112-path-sum](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0112-path-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0169-majority-element) |
 ## Counting
 |  |
