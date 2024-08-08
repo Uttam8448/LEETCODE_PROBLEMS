@@ -156,4 +156,8 @@ LEETCODE PROBLEMS
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0169-majority-element) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
