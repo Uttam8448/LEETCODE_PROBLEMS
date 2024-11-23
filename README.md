@@ -82,6 +82,7 @@ LEETCODE PROBLEMS
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0131-palindrome-partitioning) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Greedy
 |  |
@@ -100,6 +101,7 @@ LEETCODE PROBLEMS
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0131-palindrome-partitioning) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -168,4 +170,8 @@ LEETCODE PROBLEMS
 | [0182-duplicate-emails](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0182-duplicate-emails) |
 | [0196-delete-duplicate-emails](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0197-rising-temperature) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
