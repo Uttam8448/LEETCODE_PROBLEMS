@@ -76,6 +76,7 @@ LEETCODE PROBLEMS
 | [0268-missing-number](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0485-max-consecutive-ones) |
+| [1524-string-matching-in-an-array](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Dynamic Programming
@@ -103,6 +104,7 @@ LEETCODE PROBLEMS
 | ------- |
 | [0127-word-ladder](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0131-palindrome-partitioning) |
+| [1524-string-matching-in-an-array](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Breadth-First Search
 |  |
@@ -185,4 +187,8 @@ LEETCODE PROBLEMS
 |  |
 | ------- |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
