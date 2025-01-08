@@ -78,6 +78,7 @@ LEETCODE PROBLEMS
 | [0485-max-consecutive-ones](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0485-max-consecutive-ones) |
 | [1524-string-matching-in-an-array](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Dynamic Programming
 |  |
@@ -106,6 +107,7 @@ LEETCODE PROBLEMS
 | [0131-palindrome-partitioning](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0131-palindrome-partitioning) |
 | [1524-string-matching-in-an-array](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -191,4 +193,17 @@ LEETCODE PROBLEMS
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/1524-string-matching-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Trie
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
