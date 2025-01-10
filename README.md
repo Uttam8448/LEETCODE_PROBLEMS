@@ -76,6 +76,7 @@ LEETCODE PROBLEMS
 | [0268-missing-number](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0485-max-consecutive-ones) |
+| [0952-word-subsets](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -101,11 +102,13 @@ LEETCODE PROBLEMS
 | [0169-majority-element](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
+| [0952-word-subsets](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0952-word-subsets) |
 ## String
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0131-palindrome-partitioning) |
+| [0952-word-subsets](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/2292-counting-words-with-a-given-prefix) |
