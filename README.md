@@ -66,6 +66,7 @@ LEETCODE PROBLEMS
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0031-next-permutation) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -92,6 +93,7 @@ LEETCODE PROBLEMS
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Hash Table
@@ -121,6 +123,7 @@ LEETCODE PROBLEMS
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0189-rotate-array) |
