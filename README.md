@@ -68,6 +68,7 @@ LEETCODE PROBLEMS
 | ------- |
 | [0011-container-with-most-water](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0042-trapping-rain-water) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -86,6 +87,7 @@ LEETCODE PROBLEMS
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0131-palindrome-partitioning) |
@@ -126,6 +128,7 @@ LEETCODE PROBLEMS
 | [0011-container-with-most-water](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
@@ -215,4 +218,12 @@ LEETCODE PROBLEMS
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
