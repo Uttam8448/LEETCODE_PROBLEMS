@@ -78,6 +78,7 @@ LEETCODE PROBLEMS
 | [0268-missing-number](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0485-max-consecutive-ones) |
+| [0724-find-pivot-index](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0724-find-pivot-index) |
 | [0952-word-subsets](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -199,6 +200,7 @@ LEETCODE PROBLEMS
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0724-find-pivot-index) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## String Matching
 |  |
