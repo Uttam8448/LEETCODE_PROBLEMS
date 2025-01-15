@@ -99,6 +99,7 @@ LEETCODE PROBLEMS
 | ------- |
 | [0011-container-with-most-water](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2509-minimize-xor](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/2509-minimize-xor) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Hash Table
 |  |
@@ -155,6 +156,7 @@ LEETCODE PROBLEMS
 | ------- |
 | [0136-single-number](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
+| [2509-minimize-xor](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Linked List
 |  |
