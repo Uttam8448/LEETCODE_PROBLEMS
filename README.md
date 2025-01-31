@@ -68,6 +68,7 @@ LEETCODE PROBLEMS
 | ------- |
 | [0011-container-with-most-water](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0042-trapping-rain-water) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -104,6 +105,7 @@ LEETCODE PROBLEMS
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0037-sudoku-solver) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0169-majority-element) |
@@ -201,6 +203,7 @@ LEETCODE PROBLEMS
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0037-sudoku-solver) |
 | [0131-palindrome-partitioning](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0131-palindrome-partitioning) |
 ## Prefix Sum
 |  |
@@ -233,4 +236,8 @@ LEETCODE PROBLEMS
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0042-trapping-rain-water) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Uttam8448/LEETCODE_PROBLEMS/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
